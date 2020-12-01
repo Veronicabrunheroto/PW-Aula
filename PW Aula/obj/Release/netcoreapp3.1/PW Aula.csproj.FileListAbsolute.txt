@@ -1,0 +1,37 @@
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\PW Aula.exe
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\PW Aula.deps.json
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\PW Aula.runtimeconfig.json
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\PW Aula.runtimeconfig.dev.json
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\PW Aula.dll
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\PW Aula.pdb
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\PW Aula.Views.dll
+C:\Users\veron\Documents\PW Aula\PW Aula\bin\Release\netcoreapp3.1\PW Aula.Views.pdb
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.csprojAssemblyReference.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.csproj.CoreCompileInputs.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.RazorAssemblyInfo.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.RazorAssemblyInfo.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.AssemblyInfoInputs.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.AssemblyInfo.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.TagHelpers.input.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.TagHelpers.output.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.RazorCoreGenerate.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.RazorTargetAssemblyInfo.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.RazorTargetAssemblyInfo.cs
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.Views.pdb
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\staticwebassets\PW Aula.StaticWebAssets.Manifest.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\staticwebassets\PW Aula.StaticWebAssets.xml
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.dll
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.pdb
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.genruntimeconfig.cache
+C:\Users\veron\Documents\PW Aula\PW Aula\obj\Release\netcoreapp3.1\PW Aula.csproj.CopyComplete
